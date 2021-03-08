@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_todo_todo_items",
+  "info": {
+    "name": "todoItem",
+    "icon": "angle-right"
+  },
+  "options": {},
+  "attributes": {
+    "todo_id": {
+      "type": "biginteger"
+    },
+    "todo_desc": {
+      "type": "text"
+    }
+  }
+}

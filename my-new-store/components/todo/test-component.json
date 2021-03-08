@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_todo_test_components",
+  "info": {
+    "name": "testComponent",
+    "icon": "apple-alt"
+  },
+  "options": {},
+  "attributes": {
+    "testf": {
+      "type": "string"
+    }
+  }
+}

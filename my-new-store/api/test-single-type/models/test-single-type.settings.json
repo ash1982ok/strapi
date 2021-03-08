@@ -1,0 +1,24 @@
+{
+  "kind": "singleType",
+  "collectionName": "test_single_types",
+  "info": {
+    "name": "test-single-type"
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true
+  },
+  "attributes": {
+    "testfeild": {
+      "type": "string"
+    },
+    "age": {
+      "type": "integer"
+    },
+    "testComponent": {
+      "type": "component",
+      "repeatable": false,
+      "component": "todo.test-component"
+    }
+  }
+}
